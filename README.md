@@ -31,6 +31,7 @@ bash
 python simple_atm.py
 Example
 +++++++++++++++++++++++++++
+
 plaintext
 
 Welcome to Simple ATM
